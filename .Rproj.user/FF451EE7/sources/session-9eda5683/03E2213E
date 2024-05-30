@@ -1,0 +1,27 @@
+{
+    "id": "03E2213E",
+    "path": "D:/tcs/target/R/functions.R",
+    "project_path": "R/functions.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1717037267120.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,29",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717047202,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717047202526,
+    "read_only": false,
+    "read_only_alternatives": []
+}

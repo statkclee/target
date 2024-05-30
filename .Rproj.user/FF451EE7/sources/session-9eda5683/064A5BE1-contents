@@ -1,0 +1,13 @@
+name|type|parent|branches|progress
+penguins_data_raw_file|stem|penguins_data_raw_file|0|skipped
+penguins_data_raw|stem|penguins_data_raw|0|skipped
+penguins_data|stem|penguins_data|0|skipped
+models|stem|models|0|skipped
+model_predictions_812e3af782bee03f|branch|model_predictions|0|skipped
+model_predictions_2b8108839427c135|branch|model_predictions|0|skipped
+model_predictions_533cd9a636c3e05b|branch|model_predictions|0|skipped
+model_predictions|pattern|model_predictions|3|skipped
+model_summaries_812e3af782bee03f|branch|model_summaries|0|skipped
+model_summaries_2b8108839427c135|branch|model_summaries|0|skipped
+model_summaries_533cd9a636c3e05b|branch|model_summaries|0|skipped
+model_summaries|pattern|model_summaries|3|skipped
